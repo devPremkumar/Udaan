@@ -1,0 +1,4 @@
+#Sun Jan 17 14:14:08 IST 2021
+base.0=/home/prem/Desktop/udaan/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
